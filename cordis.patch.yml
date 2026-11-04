@@ -1,0 +1,3 @@
+- insert:
+    - id: mobile-topbar
+      name: '@local/dsh-mobile-topbar'
